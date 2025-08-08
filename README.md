@@ -12,7 +12,5 @@ In this project, I explored a dataset that looks at bike purchase behavior in re
 - Compared commute distances between those who did and didn’t buy a bike
 - Prepared the dataset for deeper analysis in Excel, Python, or SQL
 
-## 📎 Preview
-
 [View Dashboard](https://raw.githubusercontent.com/sedmond85/bike_purchases_project/refs/heads/main/Screenshot%202025-08-08%20001804.png)
 
