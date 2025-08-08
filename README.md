@@ -14,4 +14,5 @@ In this project, I explored a dataset that looks at bike purchase behavior in re
 
 ## 📎 Preview
 
-![Excel Preview](./assets/bike_purchases_preview.png) <!-- You can add a screenshot here later -->
+[View Dashboard](./bike_data.csv)
+
