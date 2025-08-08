@@ -1,4 +1,5 @@
 # 🚲 Analyzing Bike Purchases & Commute Distance
+![Robot on Bike](https://example.com/robot-bike.png](https://replicate.delivery/yhqm/XUfD5FRVdU32Z6WHLxgBcfb1VXRaQYE13tAajSgDA3e92lRqA/out.png)
 
 In this project, I explored a dataset that looks at bike purchase behavior in relation to commuting distance. The data includes whether a customer purchased a bike and how far they typically commute — offering insights into how transportation habits might influence buying decisions.
 
